@@ -16,7 +16,7 @@ __Commands:__
 ## Add to your discord server
 Just go [here](https://top.gg/bot/788673199956688906) or [here](https://discord.com/api/oauth2/authorize?client_id=788673199956688906&permissions=8&scope=bot) for shorter version.
 
-```WARNING: Do not change anything in the authorize bot section. (Make sure to vote ;))```
+```WARNING: Do not change anything in the authorize bot section. [ Make sure to vote ;) ]```
 
 ## Credits
 Developer: [1rens1](https://github.com/1rens1/)<br>
