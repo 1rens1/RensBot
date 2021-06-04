@@ -5,8 +5,6 @@ This is my discord bot that I make just for fun.<br>
 
 ## Usage / Commands
 
-The bot only have like 4 commands
-
 __Commands:__
 1. `help` alias: `?`, `h`
 2. `ping`
