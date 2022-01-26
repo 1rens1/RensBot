@@ -1,4 +1,5 @@
 # Rens Bot
+# This repository has been archived because JS/TS better
 
 This is my discord bot that I make just for fun.<br>
 `Version: Beta 0.5`
